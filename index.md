@@ -9,4 +9,4 @@ Welcome to my this imprefect space! Here you will find some half finished projec
 5. [Tracery][def2]
 
 
-[def2]:\tracery\index.html
+[def2]:\tracery\mysketch.js
