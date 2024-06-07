@@ -6,8 +6,7 @@ Welcome to this imprefect space! Here you will find some half finished projects 
 1. [Twine](Things.html)
 2. [Bitsy](endangered_creatures.html)
 3. [Taroko-Gorge](taroko-gorge.html)
-5. [Tracery][def]
+5. [Tracery](sketch2294219)
 
 
 
-[def]: sketch2294219
