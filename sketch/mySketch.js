@@ -71,14 +71,14 @@ var grammarSource = {
   ],
   "result": [
     "fly.",
-    "breed again.",
-    "build a nest for its young.",
-    "lay eggs for future generations.",
-    "feed their young.",
+    "breed again",
+    "build a nest for its young",
+    "lay eggs for future generations",
+    "feed their young",
     "live once more",
-    "stay with us.",
-    "make the world fuller.",
-    "stop this sadness."
+    "stay with us",
+    "make the world fuller",
+    "stop this sadness"
   ]
 };
 
