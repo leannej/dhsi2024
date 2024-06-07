@@ -41,7 +41,7 @@ var grammarSource = {
     
   ],
   "origin": [
-    "Ask the bird the #breed# to #result# then #feeling#"
+    "Ask the #breed# to #result# then #feeling#"
   ],
   "breed": [
     "Dodo",
